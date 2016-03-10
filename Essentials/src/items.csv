@@ -1,6 +1,4 @@
-#version: TeamCity
-#If you change this file, it will not be automatically updated after the next release.
-#item,id,metadata
+item,id,metadata
 stone,1,0
 sstone,1,0
 smoothstone,1,0
